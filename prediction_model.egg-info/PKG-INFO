@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: prediction-model
+Version: 1.0.0
+Summary: Loan Prediction Model
+Home-page: https://github.com/myrondontcode
+Author: Myron  Darrel Montefalcon
+Author-email: darrelmontefalcon@gmail.com
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Requires-Python: >=3.11.7
+Description-Content-Type: text/markdown
+Requires-Dist: numpy==1.26.4
+Requires-Dist: pandas==2.1.4
+Requires-Dist: joblib==1.2.0
+Requires-Dist: scikit-learn==1.2.2
+Requires-Dist: scipy==1.11.4
+Requires-Dist: setuptools==68.2.2
+Requires-Dist: wheel==0.41.2
+Requires-Dist: pytest==8.2.2
+
+Loan Prediction Model
